@@ -1,0 +1,25 @@
+30 24
+ssssssssssssssssssssssssssssss
+sssss##########sssssssssssssss
+sssss#........#sssssssssssssss
+ssssss...P....#sssssssssssssss
+sssss#######.##sssssssssssssss
+sssssssssss#.#ssssssssssssssss
+sssssssssss#.#ssssssssssssssss
+sss#########.################s
+sss#........................#s
+sss#........................#s
+sss#........................#s
+sss#........................#s
+sss#############.############s
+sssssssssssssss#.#ssssssssssss
+ss##############.#########ssss
+ss#......................#ssss
+ss#.######################ssss
+ss#.#sssssssssssssssssssssssss
+ss#.####################ssssss
+ss#....................#ssssss
+ss#....................#ssssss
+ss#....................#ssssss
+ss#....................#ssssss
+ss######################ssssss
